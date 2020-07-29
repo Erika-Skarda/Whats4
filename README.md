@@ -11,10 +11,9 @@
   <img src="https://img.shields.io/static/v1?label=react&message=framework&color=blue&style=for-the-badge&logo=REACT" />
   <img src="https://img.shields.io/static/v1?label=redux&message=library&color=yellow&style=for-the-badge&logo=REDUX"/>
   <img src="https://img.shields.io/static/v1?label=javascript&message=language&color=green&style=for-the-badge&logo=JAVASCRIPT"/>
-  <img src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=RED&style=for-the-badge"/>
 </p>
 
-
+> Status do Projeto: Concluído :heavy_check_mark: 
 
 ## Descrição do Projeto
 
@@ -30,12 +29,12 @@ rodar:
 
 ### Funcionalidades
 
-1. **Lista de mensagem:**
+- :speech_balloon: 1. **Lista de mensagem:**
     - Cada mensagem deve possuir um remetente (ou seja, um usuário que enviou) e o conteúdo em si.
     - No layout, eles devem ficar assim:
 
                                                            **nome do remente:** conteúdo
 
-2. **Envio de mensagem:**
+- :speech_balloon: 2. **Envio de mensagem:**
     - Abaixo da lista citada, deve existir um local onde o usuário escolhe o nome do remetente (input) ; o conteúdo da mensagem (input) e um botão de enviar;
     - No layout, eles devem ficar um ao lado do outro. Sendo o campo do remetente com largura muito menor do que o campo do conteúdo;
