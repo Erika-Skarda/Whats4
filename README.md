@@ -44,7 +44,7 @@ rodar:
 No terminal, clone o projeto: 
 
 ```
-git clonehttps://github.com/Erika-Skarda/API_Cookenu_2
+git clone https://github.com/Erika-Skarda/Whats4
 ```
 Entre no projeto e instale as dependências através do comando:
 ```
