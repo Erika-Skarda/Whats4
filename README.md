@@ -38,3 +38,33 @@ rodar:
 - :speech_balloon: 2. **Envio de mensagem:**
     - Abaixo da lista citada, deve existir um local onde o usuário escolhe o nome do remetente (input) ; o conteúdo da mensagem (input) e um botão de enviar;
     - No layout, eles devem ficar um ao lado do outro. Sendo o campo do remetente com largura muito menor do que o campo do conteúdo;
+
+# Como rodar a aplicação :arrow_forward:
+
+No terminal, clone o projeto: 
+
+```
+git clonehttps://github.com/Erika-Skarda/API_Cookenu_2
+```
+Entre no projeto e instale as dependências através do comando:
+```
+npm install
+```
+Por último, suba a aplicação: 
+```
+npm start
+```
+## Linguagens, dependencias e libs utilizadas :books:
+
+- [React](http://reactcommunity.org/react-transition-group/transition)
+
+
+## Desenvolvedores :computer:
+
+- <b>Erika</b> (https://github.com/Erika-Skarda)
+- <b>Milene</b>  (https://github.com/milenetaborda)
+
+## Contato por :octocat:
+
+| [Likedin](https://www.linkedin.com/in/erika-skarda-99915488/) | 
+| :---: |
