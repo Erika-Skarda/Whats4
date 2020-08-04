@@ -22,10 +22,7 @@ Ele consiste em uma página que permite ao usuário colocar seu nome e uma
 mensagem que deseja enviar; e, então, essas informações aparecem na tela. 
 Além disso, se o usuário digitar "eu" (como remetente) a mensagem aparece 
 com um layout diferente (indicando que foi enviado pelo dono da conta). 
-Não há integrações com APIs externas nesse caso.## Instruções para rodar
-Por ser um projeto com ReactJS, há a necessidade do NodeJS. Com ele em 
-sua máquina, basta abrir o terminal e navegar até o repositório clonado e 
-rodar:
+
 
 ### Funcionalidades
 
